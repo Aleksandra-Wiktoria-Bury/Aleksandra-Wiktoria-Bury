@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello / Hallo / Coucou / Cześć
 
-<!--
-**Aleksandra-Wiktoria-Bury/Aleksandra-Wiktoria-Bury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am:
+- :seedling: Excited and commited to develop my newly found passion for programming
+- :gear: Particularly interested in the logic behind and working with JavaScript
+- :art: Able to also make things pretty
+- :people_holding_hands: Giving UX a lot of thought
+   
+### When not coding I:
+- :framed_picture: look at art I can't afford
+- :sewing_needle: embroider or sew
+- :racehorse: occasionally fall of the horse
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Have been learning how to work with:
+JavaScript(ES6), Node.js/Express, Passport.js, MongoDB, JsonWebToken, CSS3, Sass, HTML5, React, Bootstrap5
