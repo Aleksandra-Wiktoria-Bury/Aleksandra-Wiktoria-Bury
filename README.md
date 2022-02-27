@@ -9,7 +9,7 @@
 ### When not coding I:
 - :framed_picture: look at art I can't afford
 - :sewing_needle: embroider or sew
-- :racehorse: occasionally fall of the horse
+- :racehorse: occasionally fall of a horse
 
 ### Have been learning how to work with:
-JavaScript(ES6), Node.js/Express, Passport.js, MongoDB, JsonWebToken, CSS3, Sass, HTML5, React, Bootstrap5
+JavaScript(ES6), Node.js/Express, Passport.js, MongoDB, JsonWebToken, CSS3, Sass, HTML5, React, Bootstrap5, TailwindCSS
